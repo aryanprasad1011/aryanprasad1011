@@ -1,8 +1,6 @@
 # 💫 About Me:
 I'm currently working on C++ and Web development
 
-[![An image of @aryanprasad1011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanprasad1011)](https://holopin.io/@aryanprasad1011)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-prasad-648b14234) 
 
